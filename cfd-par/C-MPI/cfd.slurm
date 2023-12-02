@@ -5,7 +5,7 @@
 #SBATCH --time=0:05:0
 #SBATCH --nodes=1
 #SBATCH --ntasks=36
-#SBATCH --account=YOUR_budget
+#SBATCH --account=m23ol-s2614914
 #SBATCH --partition=standard
 #SBATCH --qos=standard
 
