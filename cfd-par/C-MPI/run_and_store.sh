@@ -7,7 +7,7 @@ make
 sbatch cfd.slurm
 
 # Sleep 3 seconds until batch is complete.
-sleep 3
+sleep 5
 
 # Add all changes to git
 git add .
