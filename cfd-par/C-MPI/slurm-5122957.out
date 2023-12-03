@@ -3,7 +3,7 @@ Loading intel-compilers-19/19.0.0.117
     intel-fc-19/19.0.0.117
 Scale Factor = 32, iterations = 5000
 Irrotational flow
-Running CFD on 1152 x 1152 grid using 576 process(es) 
+Running CFD on 1152 x 1152 grid using 1152 process(es) 
 
 Starting main loop...
 
@@ -15,8 +15,8 @@ Completed iteration 5000
 
 ... finished
 After 5000 iterations, the error is 0.000372134
-Time for 5000 iterations was 0.215676 seconds
-Each iteration took 4.31352e-05 seconds
+Time for 5000 iterations was 0.174816 seconds
+Each iteration took 3.49632e-05 seconds
 
 
 Writing data files ...
