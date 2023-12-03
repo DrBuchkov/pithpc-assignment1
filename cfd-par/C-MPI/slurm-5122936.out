@@ -15,8 +15,8 @@ Completed iteration 5000
 
 ... finished
 After 5000 iterations, the error is 0.000372134
-Time for 5000 iterations was 0.350245 seconds
-Each iteration took 7.0049e-05 seconds
+Time for 5000 iterations was 0.336377 seconds
+Each iteration took 6.72754e-05 seconds
 
 
 Writing data files ...
