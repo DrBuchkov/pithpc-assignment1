@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Clean
+make clean
+
 # Compile
 make
 
