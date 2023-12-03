@@ -3,7 +3,7 @@
 # Slurm job options (name, compute nodes, job time)
 #SBATCH --job-name=cfd_parallel
 #SBATCH --time=0:05:0
-#SBATCH --nodes=8
+#SBATCH --nodes=16
 #SBATCH --exclusive
 #SBATCH --tasks-per-node=36
 #SBATCH --account=m23ol-s2614914
