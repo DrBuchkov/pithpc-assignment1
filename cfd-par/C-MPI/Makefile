@@ -2,7 +2,7 @@
 
 # For Cirrus or any standard Linux system
 CC=	mpicc
-CFLAGS=	-cc=icc -g
+CFLAGS=	-cc=icc -O3 -unroll -xAVX -fp-model fast=2 -prof-use # -prof-gen
 LFLAGS=	-lm
 
 
