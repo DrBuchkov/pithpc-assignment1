@@ -6,8 +6,8 @@ make
 # Run SLURM batch
 sbatch cfd.slurm
 
-# Sleep 1 second until batch is complete.
-sleep 1
+# Sleep 3 seconds until batch is complete.
+sleep 3
 
 # Add all changes to git
 git add .
