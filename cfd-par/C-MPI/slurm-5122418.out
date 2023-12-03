@@ -1,0 +1,26 @@
+Loading intel-compilers-19/19.0.0.117
+  Loading requirement: intel-license gcc/8.2.0 intel-cc-19/19.0.0.117
+    intel-fc-19/19.0.0.117
+Scale Factor = 4, iterations = 5000
+Irrotational flow
+Running CFD on 144 x 144 grid using 4 process(es) 
+
+Starting main loop...
+
+Completed iteration 1000
+Completed iteration 2000
+Completed iteration 3000
+Completed iteration 4000
+Completed iteration 5000
+
+... finished
+After 5000 iterations, the error is 0.000216569
+Time for 5000 iterations was 0.0606301 seconds
+Each iteration took 1.2126e-05 seconds
+
+
+Writing data files ...
+... done!
+
+Written gnuplot script 'cfd.plt'
+... finished
