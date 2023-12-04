@@ -1,9 +1,9 @@
 Loading intel-compilers-19/19.0.0.117
   Loading requirement: intel-license gcc/8.2.0 intel-cc-19/19.0.0.117
     intel-fc-19/19.0.0.117
-Scale Factor = 32, iterations = 15000
+Scale Factor = 80, iterations = 20000
 Irrotational flow
-Running CFD on 1152 x 1152 grid using 576 process(es) 
+Running CFD on 2880 x 2880 grid using 576 process(es) 
 
 Starting main loop...
 
@@ -22,11 +22,16 @@ Completed iteration 12000
 Completed iteration 13000
 Completed iteration 14000
 Completed iteration 15000
+Completed iteration 16000
+Completed iteration 17000
+Completed iteration 18000
+Completed iteration 19000
+Completed iteration 20000
 
 ... finished
-After 15000 iterations, the error is 0.000161012
-Time for 15000 iterations was 0.682832 seconds
-Each iteration took 4.55221e-05 seconds
+After 20000 iterations, the error is 0.000131944
+Time for 20000 iterations was 4.79463 seconds
+Each iteration took 0.000239732 seconds
 
 
 Writing data files ...
