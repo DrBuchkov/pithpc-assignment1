@@ -1,0 +1,97 @@
+Loading intel-compilers-19/19.0.0.117
+  Loading requirement: intel-license gcc/8.2.0 intel-cc-19/19.0.0.117
+    intel-fc-19/19.0.0.117
+Scale Factor = 48, iterations = 10000
+Irrotational flow
+ERROR: m=1728 does not divide onto 1152 processes
+srun: error: r1i1n24: tasks 540-545,547,549,551-552,554-555,558-560,562-566,568,570-575: Exited with exit code 255
+srun: launch/slurm: _step_signal: Terminating StepId=5123208.0
+slurmstepd: error: *** STEP 5123208.0 ON r1i1n4 CANCELLED AT 2023-12-04T01:23:08 ***
+srun: error: r1i1n10: tasks 181-182,184-186,188-189,191-194,196-199,201-204,206,208-215: Exited with exit code 255
+srun: error: r1i1n27: tasks 649-652,654-655,657-661,663-666,668-670,672-674,676-678,680,682: Exited with exit code 255
+srun: error: r1i3n13: tasks 1008,1010-1020,1022-1024,1026,1028-1036,1038-1040,1042-1043: Exited with exit code 255
+srun: error: r1i1n29: tasks 720-730,732-734,736,738-745,747-748,750-755: Exited with exit code 255
+srun: error: r1i1n13: tasks 288-290,292,294-295,298,300-314,316-321: Exited with exit code 255
+srun: error: r1i3n10: tasks 936-940,942,944,946-952,954,956-957,959,961-964,966-971: Exited with exit code 255
+srun: error: r1i1n6: tasks 37-40,42-44,46-48,50-56,58-62,64,66-71: Exited with exit code 255
+srun: error: r1i3n9: tasks 900-908,910-911,913-918,920-922,924-926,928-932,934-935: Exited with exit code 255
+srun: error: r1i1n12: tasks 252,254-268,270-272,274-279,281-284,286-287: Exited with exit code 255
+srun: error: r1i1n31: tasks 792-802,806-808,810-818,820-824,826-827: Exited with exit code 255
+srun: error: r1i3n7: tasks 864-866,868,870-889,891-893,895-897: Exited with exit code 255
+srun: error: r1i1n11: tasks 216,218-232,234,236-242,244,246-248,250-251: Exited with exit code 255
+srun: error: r1i1n25: tasks 576-579,581,583-600,603-605,607-611: Exited with exit code 255
+srun: error: r1i1n4: tasks 1-8,10-11,13,15-16,18-25,27-35: Exited with exit code 255
+srun: error: r1i1n28: tasks 684-688,690,693-694,696,698-700,702-710,712-714,716,718-719: Exited with exit code 255
+srun: error: r1i1n21: tasks 468-472,474-485,488-500,502: Exited with exit code 255
+srun: error: r1i3n11: tasks 972-980,982-984,986-990,992-996,998-999,1001-1002,1004-1007: Exited with exit code 255
+srun: error: r1i1n30: tasks 756-762,764-776,778,780-786,788,790-791: Exited with exit code 255
+srun: error: r1i1n18: tasks 360,362-368,370,372-388,392-393,395: Exited with exit code 255
+srun: error: r1i3n17: tasks 1116,1118-1122,1124-1126,1128-1136,1138-1140,1142-1145,1147-1151: Exited with exit code 255
+srun: error: r1i1n26: tasks 612-616,618,620-637,640-644,646-647: Exited with exit code 255
+srun: error: r1i1n8: tasks 108-120,122-124,126-132,137-143: Exited with exit code 255
+srun: error: r1i1n20: tasks 432-436,438,441-449,451-454,456,458-467: Exited with exit code 255
+srun: error: r1i1n34: tasks 828-834,836-840,842-850,852-860,862: Exited with exit code 255
+srun: error: r1i3n16: tasks 1080-1084,1086-1090,1092,1094-1096,1098-1109,1111-1115: Exited with exit code 255
+srun: error: r1i3n15: tasks 1044-1055,1057-1059,1061,1063-1071,1073-1074,1076,1078-1079: Exited with exit code 255
+srun: error: r1i1n19: tasks 396-398,400-402,404-422,424-428,430-431: Exited with exit code 255
+srun: error: r1i1n9: tasks 144-145,147-148,150,152-158,160-168,170-179: Exited with exit code 255
+srun: error: r1i1n22: tasks 504-507,510-512,514-520,522,524-529,531-534,536-539: Exited with exit code 255
+srun: error: r1i1n7: tasks 72-74,76-84,86,88-96,98-99,101-102,105-107: Exited with exit code 255
+srun: error: r1i1n15: tasks 324-326,328-334,336,338-339,341-346,348-356,358-359: Exited with exit code 255
+srun: error: r1i1n24: tasks 550,556-557,561,567: Exited with exit code 255
+srun: error: r1i1n27: tasks 648,656,662,667,681,683: Exited with exit code 255
+srun: error: r1i3n10: tasks 941,953,955,960: Exited with exit code 255
+srun: error: r1i1n10: tasks 180,187,195,200: Exited with exit code 255
+srun: error: r1i3n9: tasks 912,927: Exited with exit code 255
+srun: error: r1i3n13: tasks 1025,1027: Exited with exit code 255
+srun: error: r1i1n13: tasks 291,293,296,299,322: Exited with exit code 255
+srun: error: r1i1n4: tasks 0,17: Exited with exit code 255
+srun: error: r1i3n11: tasks 997,1000: Exited with exit code 255
+srun: error: r1i1n11: tasks 217,233: Exited with exit code 255
+srun: error: r1i1n26: task 638: Exited with exit code 255
+srun: error: r1i1n28: tasks 689,691-692,695,697,717: Exited with exit code 255
+srun: error: r1i3n17: tasks 1137,1146: Exited with exit code 255
+srun: error: r1i1n8: tasks 134-135: Exited with exit code 255
+srun: error: r1i1n20: tasks 437,439: Exited with exit code 255
+srun: error: r1i3n7: tasks 869,890: Exited with exit code 255
+srun: error: r1i1n6: tasks 36,41,45,49: Exited with exit code 255
+srun: error: r1i1n9: task 146: Exited with exit code 255
+srun: error: r1i1n22: tasks 509,521,523,535: Exited with exit code 255
+srun: error: r1i1n18: tasks 361,389-390,394: Exited with exit code 255
+srun: error: r1i1n7: tasks 75,85,103: Exited with exit code 255
+srun: error: r1i1n31: tasks 803-804,825: Exited with exit code 255
+srun: error: r1i3n15: tasks 1056,1060,1075,1077: Exited with exit code 255
+srun: error: r1i1n30: task 789: Exited with exit code 255
+srun: error: r1i1n15: tasks 327,340: Exited with exit code 255
+srun: error: r1i3n16: tasks 1085,1091,1093,1097,1110: Exited with exit code 255
+srun: error: r1i1n21: tasks 473,486-487,501,503: Exited with exit code 255
+srun: error: r1i1n12: tasks 253,269,273,280,285: Exited with exit code 255
+srun: error: r1i1n29: tasks 731,735,737,746,749: Exited with exit code 255
+srun: error: r1i1n8: tasks 121,125,133,136: Exited with exit code 255
+srun: error: r1i3n13: tasks 1009,1021,1037,1041: Exited with exit code 255
+srun: error: r1i1n4: tasks 9,12,14,26: Exited with exit code 255
+srun: error: r1i1n25: tasks 580,582,601-602,606: Exited with exit code 255
+srun: error: r1i1n10: tasks 183,190,205,207: Exited with exit code 255
+srun: error: r1i1n26: tasks 617,619,639,645: Exited with exit code 255
+srun: error: r1i3n10: tasks 943,945,958,965: Exited with exit code 255
+srun: error: r1i1n18: tasks 369,371,391: Exited with exit code 255
+srun: error: r1i1n11: tasks 235,243,245,249: Exited with exit code 255
+srun: error: r1i3n17: tasks 1117,1123,1127,1141: Exited with exit code 255
+srun: error: r1i1n34: tasks 835,841,851,861,863: Exited with exit code 255
+srun: error: r1i1n31: tasks 805,809,819: Exited with exit code 255
+srun: error: r1i3n15: tasks 1062,1072: Exited with exit code 255
+srun: error: r1i1n20: tasks 440,450,455,457: Exited with exit code 255
+srun: error: r1i3n11: tasks 981,985,991,1003: Exited with exit code 255
+srun: error: r1i1n13: tasks 297,315,323: Exited with exit code 255
+srun: error: r1i1n27: tasks 653,671,675,679: Exited with exit code 255
+srun: error: r1i1n19: tasks 399,403,423,429: Exited with exit code 255
+srun: error: r1i1n28: tasks 701,711,715: Exited with exit code 255
+srun: error: r1i1n22: tasks 508,513,530: Exited with exit code 255
+srun: error: r1i3n7: tasks 867,894,898-899: Exited with exit code 255
+srun: error: r1i1n24: tasks 546,548,553,569: Exited with exit code 255
+srun: error: r1i1n6: tasks 57,63,65: Exited with exit code 255
+srun: error: r1i3n9: tasks 909,919,923,933: Exited with exit code 255
+srun: error: r1i1n9: tasks 149,151,159,169: Exited with exit code 255
+srun: error: r1i1n30: tasks 763,777,779,787: Exited with exit code 255
+srun: error: r1i1n7: tasks 87,97,100,104: Exited with exit code 255
+srun: error: r1i1n15: tasks 335,337,347,357: Exited with exit code 255
