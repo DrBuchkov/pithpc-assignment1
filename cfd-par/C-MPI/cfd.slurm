@@ -24,4 +24,4 @@ export OMP_NUM_THREADS=1
  
 # Launch the serial job
 #   Using 1 thread
-srun ./cfd 48 10000
+srun ./cfd 64 15000
