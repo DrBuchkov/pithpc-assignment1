@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Clean unnecessary files
+rm colourmap.dat velocity.dat
+
 # Add all changes to git
 git add .
 
