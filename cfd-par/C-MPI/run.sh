@@ -11,5 +11,3 @@ sbatch cfd.slurm
 
 # Sleep 5 second until batch is complete.
 sleep 5
-
-
